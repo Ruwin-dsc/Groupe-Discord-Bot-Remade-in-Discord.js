@@ -13,3 +13,5 @@ Utilisation ?
 --> +group remove user = retirer un utilisateur de votre groupe
 
 --> MP le bot pour envoyer des messages dans le groupe
+
+--> For support : https://discord.gg/whitehall
